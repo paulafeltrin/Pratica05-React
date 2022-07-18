@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+  text-align: left;
+}
+ul {
+  background-color: rgba(176, 221, 11, 0.432);
+  width: 70vw;
+}
+li {
+  list-style: none;
+}
